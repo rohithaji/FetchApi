@@ -1,0 +1,22 @@
+.container{
+    display:  flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+#img{
+    border-radius: 50%;
+}
+#name, #email{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+}
